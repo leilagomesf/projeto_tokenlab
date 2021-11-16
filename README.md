@@ -1,2 +1,2 @@
 # projeto_tokenlab
- Projeto realizado para o processo seletivo mobile da tokenlab. O aplicativo foi desenvolvido em Android Java através da IDE IntelliJ.
+ Projeto para apresentar dados sobre filmes que são obtidos através de chamadas http. O aplicativo foi desenvolvido em Android Java através da IDE IntelliJ.
